@@ -1,0 +1,62 @@
+C:\Users\user\Music\GemBookStoreApp\GemBookStore\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\user\Music\GemBookStoreApp\GemBookStore\bin\Debug\net6.0\appsettings.json
+C:\Users\user\Music\GemBookStoreApp\GemBookStore\bin\Debug\net6.0\GemBookStore.staticwebassets.runtime.json
+C:\Users\user\Music\GemBookStoreApp\GemBookStore\bin\Debug\net6.0\GemBookStore.exe
+C:\Users\user\Music\GemBookStoreApp\GemBookStore\bin\Debug\net6.0\GemBookStore.deps.json
+C:\Users\user\Music\GemBookStoreApp\GemBookStore\bin\Debug\net6.0\GemBookStore.runtimeconfig.json
+C:\Users\user\Music\GemBookStoreApp\GemBookStore\bin\Debug\net6.0\GemBookStore.dll
+C:\Users\user\Music\GemBookStoreApp\GemBookStore\bin\Debug\net6.0\GemBookStore.pdb
+C:\Users\user\Music\GemBookStoreApp\GemBookStore\obj\Debug\net6.0\GemBookStore.csproj.AssemblyReference.cache
+C:\Users\user\Music\GemBookStoreApp\GemBookStore\obj\Debug\net6.0\GemBookStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Music\GemBookStoreApp\GemBookStore\obj\Debug\net6.0\GemBookStore.AssemblyInfoInputs.cache
+C:\Users\user\Music\GemBookStoreApp\GemBookStore\obj\Debug\net6.0\GemBookStore.AssemblyInfo.cs
+C:\Users\user\Music\GemBookStoreApp\GemBookStore\obj\Debug\net6.0\GemBookStore.csproj.CoreCompileInputs.cache
+C:\Users\user\Music\GemBookStoreApp\GemBookStore\obj\Debug\net6.0\GemBookStore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Music\GemBookStoreApp\GemBookStore\obj\Debug\net6.0\GemBookStore.RazorAssemblyInfo.cache
+C:\Users\user\Music\GemBookStoreApp\GemBookStore\obj\Debug\net6.0\GemBookStore.RazorAssemblyInfo.cs
+C:\Users\user\Music\GemBookStoreApp\GemBookStore\obj\Debug\net6.0\staticwebassets\msbuild.GemBookStore.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user\Music\GemBookStoreApp\GemBookStore\obj\Debug\net6.0\staticwebassets\msbuild.build.GemBookStore.props
+C:\Users\user\Music\GemBookStoreApp\GemBookStore\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.GemBookStore.props
+C:\Users\user\Music\GemBookStoreApp\GemBookStore\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.GemBookStore.props
+C:\Users\user\Music\GemBookStoreApp\GemBookStore\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\user\Music\GemBookStoreApp\GemBookStore\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\user\Music\GemBookStoreApp\GemBookStore\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\user\Music\GemBookStoreApp\GemBookStore\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\user\Music\GemBookStoreApp\GemBookStore\obj\Debug\net6.0\scopedcss\bundle\GemBookStore.styles.css
+C:\Users\user\Music\GemBookStoreApp\GemBookStore\obj\Debug\net6.0\scopedcss\projectbundle\GemBookStore.bundle.scp.css
+C:\Users\user\Music\GemBookStoreApp\GemBookStore\obj\Debug\net6.0\GemBookStore.dll
+C:\Users\user\Music\GemBookStoreApp\GemBookStore\obj\Debug\net6.0\refint\GemBookStore.dll
+C:\Users\user\Music\GemBookStoreApp\GemBookStore\obj\Debug\net6.0\GemBookStore.pdb
+C:\Users\user\Music\GemBookStoreApp\GemBookStore\obj\Debug\net6.0\GemBookStore.genruntimeconfig.cache
+C:\Users\user\Music\GemBookStoreApp\GemBookStore\obj\Debug\net6.0\ref\GemBookStore.dll
+C:\Users\user\Desktop\Gemma Practice Projects\BookStore\GemBookStoreApp\GemBookStore\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\user\Desktop\Gemma Practice Projects\BookStore\GemBookStoreApp\GemBookStore\bin\Debug\net6.0\appsettings.json
+C:\Users\user\Desktop\Gemma Practice Projects\BookStore\GemBookStoreApp\GemBookStore\bin\Debug\net6.0\GemBookStore.staticwebassets.runtime.json
+C:\Users\user\Desktop\Gemma Practice Projects\BookStore\GemBookStoreApp\GemBookStore\bin\Debug\net6.0\GemBookStore.exe
+C:\Users\user\Desktop\Gemma Practice Projects\BookStore\GemBookStoreApp\GemBookStore\bin\Debug\net6.0\GemBookStore.deps.json
+C:\Users\user\Desktop\Gemma Practice Projects\BookStore\GemBookStoreApp\GemBookStore\bin\Debug\net6.0\GemBookStore.runtimeconfig.json
+C:\Users\user\Desktop\Gemma Practice Projects\BookStore\GemBookStoreApp\GemBookStore\bin\Debug\net6.0\GemBookStore.dll
+C:\Users\user\Desktop\Gemma Practice Projects\BookStore\GemBookStoreApp\GemBookStore\bin\Debug\net6.0\GemBookStore.pdb
+C:\Users\user\Desktop\Gemma Practice Projects\BookStore\GemBookStoreApp\GemBookStore\obj\Debug\net6.0\GemBookStore.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Gemma Practice Projects\BookStore\GemBookStoreApp\GemBookStore\obj\Debug\net6.0\GemBookStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Gemma Practice Projects\BookStore\GemBookStoreApp\GemBookStore\obj\Debug\net6.0\GemBookStore.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Gemma Practice Projects\BookStore\GemBookStoreApp\GemBookStore\obj\Debug\net6.0\GemBookStore.AssemblyInfo.cs
+C:\Users\user\Desktop\Gemma Practice Projects\BookStore\GemBookStoreApp\GemBookStore\obj\Debug\net6.0\GemBookStore.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Gemma Practice Projects\BookStore\GemBookStoreApp\GemBookStore\obj\Debug\net6.0\GemBookStore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Desktop\Gemma Practice Projects\BookStore\GemBookStoreApp\GemBookStore\obj\Debug\net6.0\GemBookStore.RazorAssemblyInfo.cache
+C:\Users\user\Desktop\Gemma Practice Projects\BookStore\GemBookStoreApp\GemBookStore\obj\Debug\net6.0\GemBookStore.RazorAssemblyInfo.cs
+C:\Users\user\Desktop\Gemma Practice Projects\BookStore\GemBookStoreApp\GemBookStore\obj\Debug\net6.0\staticwebassets\msbuild.GemBookStore.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user\Desktop\Gemma Practice Projects\BookStore\GemBookStoreApp\GemBookStore\obj\Debug\net6.0\staticwebassets\msbuild.build.GemBookStore.props
+C:\Users\user\Desktop\Gemma Practice Projects\BookStore\GemBookStoreApp\GemBookStore\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.GemBookStore.props
+C:\Users\user\Desktop\Gemma Practice Projects\BookStore\GemBookStoreApp\GemBookStore\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.GemBookStore.props
+C:\Users\user\Desktop\Gemma Practice Projects\BookStore\GemBookStoreApp\GemBookStore\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\user\Desktop\Gemma Practice Projects\BookStore\GemBookStoreApp\GemBookStore\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\user\Desktop\Gemma Practice Projects\BookStore\GemBookStoreApp\GemBookStore\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\user\Desktop\Gemma Practice Projects\BookStore\GemBookStoreApp\GemBookStore\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\user\Desktop\Gemma Practice Projects\BookStore\GemBookStoreApp\GemBookStore\obj\Debug\net6.0\scopedcss\bundle\GemBookStore.styles.css
+C:\Users\user\Desktop\Gemma Practice Projects\BookStore\GemBookStoreApp\GemBookStore\obj\Debug\net6.0\scopedcss\projectbundle\GemBookStore.bundle.scp.css
+C:\Users\user\Desktop\Gemma Practice Projects\BookStore\GemBookStoreApp\GemBookStore\obj\Debug\net6.0\GemBookStore.dll
+C:\Users\user\Desktop\Gemma Practice Projects\BookStore\GemBookStoreApp\GemBookStore\obj\Debug\net6.0\refint\GemBookStore.dll
+C:\Users\user\Desktop\Gemma Practice Projects\BookStore\GemBookStoreApp\GemBookStore\obj\Debug\net6.0\GemBookStore.pdb
+C:\Users\user\Desktop\Gemma Practice Projects\BookStore\GemBookStoreApp\GemBookStore\obj\Debug\net6.0\GemBookStore.genruntimeconfig.cache
+C:\Users\user\Desktop\Gemma Practice Projects\BookStore\GemBookStoreApp\GemBookStore\obj\Debug\net6.0\ref\GemBookStore.dll
