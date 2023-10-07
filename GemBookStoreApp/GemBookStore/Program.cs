@@ -1,4 +1,6 @@
 using GemBookStore.Models.DTO;
+using GemBookStore.Repositories.Abstract;
+using GemBookStore.Repositories.Implementation;
 using Microsoft.EntityFrameworkCore;
 
 namespace GemBookStore
@@ -14,7 +16,11 @@ namespace GemBookStore
             builder.Services.AddDbContext<DataBaseContext>(options =>
             options.UseSqlServer(builder.Configuration.GetConnectionString("conn")));
 
+            builder.Services.AddScoped<IGenreService, GenreService>();
+
             var app = builder.Build();
+
+
 
             // Configure the HTTP request pipeline.
             if (!app.Environment.IsDevelopment())
