@@ -1,3 +1,6 @@
+using GemBookStore.Models.DTO;
+using Microsoft.EntityFrameworkCore;
+
 namespace GemBookStore
 {
     public class Program
@@ -8,6 +11,8 @@ namespace GemBookStore
 
             // Add services to the container.
             builder.Services.AddControllersWithViews();
+            builder.Services.AddDbContext<DataBaseContext>(options =>
+            options.UseSqlServer(builder.Configuration.GetConnectionString("conn")));
 
             var app = builder.Build();
 
