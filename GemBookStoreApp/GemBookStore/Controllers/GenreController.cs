@@ -20,11 +20,11 @@ namespace GemBookStore.Controllers
         [HttpPost]  
         public IActionResult Add(Genre model)
         {
-            if (ModelState.IsValid)
+            if (!ModelState.IsValid)
             {
                 return View(model);
             }
-            var result=service.Add(model);
+            var result = service.Add(model);
             if (result)
             {
                 TempData["msg"] = "Added Successfully";
@@ -41,17 +41,16 @@ namespace GemBookStore.Controllers
         }
 
         [HttpPost]
-        public IActionResult Updated(Genre model)
+        public IActionResult Update(Genre model)
         {
-            if (ModelState.IsValid)
+            if (!ModelState.IsValid)
             {
                 return View(model);
             }
-            var result = service.Add(model);
+            var result = service.Update(model);
             if (result)
             {
-                TempData["msg"] = "Added Successfully";
-                return RedirectToAction(nameof(Add));
+                return RedirectToAction("GetAll");
             }
             TempData["msg"] = "Error has occured on server side";
             return View(model);
