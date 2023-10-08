@@ -4,12 +4,12 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace GemBookStore.Controllers
 {
-    public class GenreController : Controller
+    public class AuthorController : Controller
     {
-        private readonly IGenreService service;
-        public GenreController(IGenreService service)
+        private readonly IAuthorService service;
+        public AuthorController(IAuthorService service)
         {
-            this.service = service; 
+            this.service = service;
         }
 
         public IActionResult Add()
@@ -17,10 +17,10 @@ namespace GemBookStore.Controllers
             return View();
         }
 
-        [HttpPost]  
-        public IActionResult Add(Genre model)
+        [HttpPost]
+        public IActionResult Add(Author model)
         {
-            if (ModelState.IsValid)
+            if (!ModelState.IsValid)
             {
                 return View(model);
             }
@@ -41,7 +41,7 @@ namespace GemBookStore.Controllers
         }
 
         [HttpPost]
-        public IActionResult Update(Genre model)
+        public IActionResult Update(Author model)
         {
             if (!ModelState.IsValid)
             {
@@ -58,14 +58,14 @@ namespace GemBookStore.Controllers
         }
 
 
-        
+
         public IActionResult Delete(int id)
         {
-            
+
             var result = service.Delete(id);
-            
-                return RedirectToAction("GetAll");
-         
+
+            return RedirectToAction("GetAll");
+
         }
 
         public IActionResult GetAll()
@@ -78,6 +78,5 @@ namespace GemBookStore.Controllers
         }
 
     }
-
-
 }
+
