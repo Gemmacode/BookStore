@@ -4,10 +4,10 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace GemBookStore.Controllers
 {
-    public class GenreController : Controller
+    public class PublisherController : Controller
     {
-        private readonly IGenreService service;
-        public GenreController(IGenreService service)
+        private readonly IPublisherService service;
+        public PublisherController(IPublisherService service)
         {
             this.service = service; 
         }
@@ -18,7 +18,7 @@ namespace GemBookStore.Controllers
         }
 
         [HttpPost]  
-        public IActionResult Add(Genre model)
+        public IActionResult Add(Publisher model)
         {
             if (!ModelState.IsValid)
             {
@@ -41,7 +41,7 @@ namespace GemBookStore.Controllers
         }
 
         [HttpPost]
-        public IActionResult Update(Genre model)
+        public IActionResult Update(Publisher model)
         {
             if (!ModelState.IsValid)
             {

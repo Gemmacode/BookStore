@@ -18,6 +18,7 @@ namespace GemBookStore
 
             builder.Services.AddScoped<IGenreService, GenreService>();
             builder.Services.AddScoped<IAuthorService, AuthorService>();
+            builder.Services.AddScoped<IPublisherService, PublisherService>();
 
             var app = builder.Build();
 
